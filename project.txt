@@ -3,3 +3,4 @@ this is branch1
 changes done in one branch
 -m
 same
+checking for --force
