@@ -3,4 +3,9 @@ ithis is branch1
 changes done in one branch
 -m
 same
+<<<<<<< HEAD
 dev5 --force
+=======
+dev --force
+dev -f
+>>>>>>> dev6
